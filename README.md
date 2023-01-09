@@ -15,3 +15,4 @@
 - git add . (összes állomány és mappa hozzáadása)
 ## 5. állapotfelvétel (commit klszítése)
 -git commit -m "commit message"
+
