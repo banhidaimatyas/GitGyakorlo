@@ -13,6 +13,9 @@
 > Üres mappa nem lerül a stage-re
 - git add állomány_neve
 - git add . (összes állomány és mappa hozzáadása)
-## 5. állapotfelvétel (commit klszítése)
--git commit -m "commit message"
+## 5. állapotfelvétel (commit készítése)
+- git commit -m "commit message"
+## 6. Git állapot és log lekérdezése
+- git status
+- git log
 
