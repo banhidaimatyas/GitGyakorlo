@@ -25,12 +25,15 @@
 ## 9. Ágak (branches) kezelése  
 > Lokális ágak listázása  
 - git branch  
-> Lokális és távoli ágak listázása
-- git branch -av
-> Ág létrehozása (-b és váltása)
-- git branch új_ág_neve
-- git checkout -b új_ág_neve
-> Váltás egy másik ágra
-- git checkout másik_ág_neve 
-> Ág törlése
-- git branch -d törlendő_ág_neve
+> Lokális és távoli ágak listázása  
+- git branch -av  
+> Ág létrehozása (-b és váltása)  
+- git branch új_ág_neve  
+- git checkout -b új_ág_neve  
+> Váltás egy másik ágra  
+- git checkout másik_ág_neve   
+> Ág törlése  
+- git branch -d törlendő_ág_neve  
+> Változások átvezetése (merge)
+- git checkout ág-ahova_kerülnek_a_változások
+- git merge ág-ahonnan-áthozzuk-a-változásokat
