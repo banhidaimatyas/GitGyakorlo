@@ -4,7 +4,7 @@
 - [git scm](https://git-scm.com/)  
 ## 2. Konfigurációs parancsok
 - git config --global user.name banhidaimatyas  
-- git config --global user.eamil banhidai.matyas@students.jedlik.eu  
+- git config --global user.email banhidai.matyas@students.jedlik.eu  
 - git config --global credential.helper wincred  
 ## 3. Repository létrehozása
 - git init  
